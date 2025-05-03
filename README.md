@@ -80,13 +80,6 @@ Soy un apasionado estudiante de **Ingeniería en Tecnologías de la Información
   </a>
 </p>
 
----
-
-### 💼 Proyectos Destacados:
-| Proyecto | Descripción | Tech Stack |
-|----------|-------------|------------|
-| [Sistema de Gestión UTA](https://github.com/JairoChoto/sistema-gestion-uta) | Plataforma para gestión académica | C#, SQL, Bootstrap |
-| [E-commerce TechShop](https://github.com/JairoChoto/ecommerce-techshop) | Tienda online de componentes electrónicos | JavaScript, React, Node.js |
 
 ---
 

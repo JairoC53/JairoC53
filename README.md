@@ -91,4 +91,4 @@ Soy un apasionado estudiante de **Ingeniería en Tecnologías de la Información
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Frases inspiradoras">
 </p>
 
-*Última actualización: 09/09/2023 🚀*
+*Última actualización: 03/05/2025 🚀*
